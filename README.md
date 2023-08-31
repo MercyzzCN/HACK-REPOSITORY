@@ -29,3 +29,5 @@ Supported Launcher:Official Launcher
 6.Click "install"
 
 7.Run the game
+
+8.You can use my future-installed game folder if you can't install it 
